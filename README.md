@@ -4,11 +4,6 @@
 ## Table of Contents
 * [General Info](#general-information)
 * [Technologies Used](#technologies-used)
-* [Features](#features)
-* [Screenshots](#screenshots)
-* [Setup](#setup)
-* [Usage](#usage)
-* [Project Status](#project-status)
 * [Room for Improvement](#room-for-improvement)
 * [Acknowledgements](#acknowledgements)
 * [Contact](#contact)
@@ -20,6 +15,8 @@
 - The projects contains, feature engineering, data cleaning, data wrangling, exploratory data analysis, visulization and model development.
 - Models include: 1) Linear regression, SVM, decision tree, random forest, gradient boosting, Neural Network, etc..
 
+![Example screenshot](./Figures/PDF_price.png)
+<!-- If you have screenshots you'd like to share, include them here. -->
 
 ## Technologies Used
 - Python
@@ -28,8 +25,10 @@
 - Pandas
 - Matplotlib
 
-Room for improvement:
+## Room for improvement:
 - Will implement XGboost later
+- 
+
 
 ## Acknowledgements
 - Thanks to Dr. Robert McCulloch for fruitful discussions.
