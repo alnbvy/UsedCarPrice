@@ -16,6 +16,7 @@
 - Models include: 1) Linear regression, SVM, decision tree, random forest, gradient boosting, Neural Network, etc..
 
 ![Example screenshot](./Figures/PDF_price.png)
+![Example screenshot](./Figures/NN_arch.png)
 <!-- If you have screenshots you'd like to share, include them here. -->
 
 ## Technologies Used
@@ -27,7 +28,6 @@
 
 ## Room for improvement:
 - Will implement XGboost later
-- 
 
 
 ## Acknowledgements
