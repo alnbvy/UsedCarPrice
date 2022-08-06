@@ -19,7 +19,9 @@
 
 ![Example screenshot](./Figures/PDF_price.png)
 ![Example screenshot](./Figures/NN_arch.png)
+Table of the architecture of the Neural Networks used in this study
 ![Example screenshot](NN.png)
+Table of comparison of the performance of different models
 ![Example screenshot](Comparison.png)
 <!-- If you have screenshots you'd like to share, include them here. -->
 
