@@ -20,7 +20,7 @@
 ![Example screenshot](./Figures/PDF_price.png)
 ![Example screenshot](./Figures/NN_arch.png)
 ![Example screenshot](NN.png)
-![Example screenshot](comparison.png)
+![Example screenshot](Comparison.png)
 <!-- If you have screenshots you'd like to share, include them here. -->
 
 ## Technologies Used
